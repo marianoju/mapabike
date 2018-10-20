@@ -10,6 +10,7 @@
 
 ## Siehe auch: 
 - [Bike Sharing in Hamburg](http://www.alexknowsdata.com/post/stadtrad/)
+    - [Nutzung von Open Data im Rahmen der Radverkehrsstrategie Hamburg](https://medium.com/@alex_kruse/nutzung-von-open-data-im-rahmen-der-radverkehrsstrategie-9cf85a813c48)
     - [kruse-alex/bike_sharing](https://github.com/kruse-alex/bike_sharing)
 - [Beteiligungsverfahren StadtRAD](https://www.hamburg.de/bwvi/stadtrad/)
 - [Geo-JSON StadtRad-Stationen](https://geodienste.hamburg.de/HH_WFS_Stadtrad?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typename=app:stadtrad_stationen&outputformat=application/geo%2Bjson)
